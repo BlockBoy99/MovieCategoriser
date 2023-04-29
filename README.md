@@ -15,6 +15,7 @@ Allows the user to enter movies and their details and display them categorically
   The order can then be viewed with read.
   
   Specific allows you to view specific information on each Movie entry
+  
   Edit allows you to change the data of the entry (This would generally be favourited and current watch time (as user watches more)).
   Depending on the watch time of a movie, completition status will be stored as "not started", "currently watching" and "completed".
   Delete allows a user to delete a Movie entry
