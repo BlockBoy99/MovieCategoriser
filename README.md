@@ -12,7 +12,7 @@ Allows the user to enter movies and their details and display them categorically
  
  
  To Use:  
-  Should create a file on desktop called "MediaDatabaseForMediaIsDatabase.txt" when first run  
+  Should create a file on desktop called "MediaDatabaseForMediaIsDatabase.txt" when first ran  
   You can add Movies (Make sure to add multiple) to this as the program instructs (Name of Movie, length of movie minutes, current time watched in minutes, true/false on wether it should be   favourited.  
   Data will then be added to "MediaDatabaseForMediaIsDatabase.txt"  
   read will allow you to view the name of each movie added according to the order decided  
@@ -29,6 +29,6 @@ Allows the user to enter movies and their details and display them categorically
   Depending on the watch time of a movie, completition status will be stored as "not started", "currently watching" and "completed".  
   Delete allows a user to delete a Movie entry  
   clearFile will clear the file and remove all the Movie entries  
-  Terminante will end the program  
+  Terminate will end the program  
  
  Some validation/ bug testing is shown (mainly in creating a Movie) but the project was made overall by high school java beginners, so we tried our best to learn as much as possible in the short time. Be kind XD
