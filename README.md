@@ -1,4 +1,5 @@
 # MovieCategoriser
+Please watch video first, it may be easier to understand
 Instruction:
 run MovieSorter.jar
 Other files are source files and Furth Instructions on how to use program below
